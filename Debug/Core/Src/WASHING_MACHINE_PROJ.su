@@ -1,0 +1,4 @@
+../Core/Src/WASHING_MACHINE_PROJ.c:38:6:mode_select	8	static
+../Core/Src/WASHING_MACHINE_PROJ.c:175:6:operator_start	8	static
+../Core/Src/WASHING_MACHINE_PROJ.c:1036:6:operator_stop	8	static
+../Core/Src/WASHING_MACHINE_PROJ.c:1048:6:spin_motor	8	static

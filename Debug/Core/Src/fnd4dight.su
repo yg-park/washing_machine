@@ -1,0 +1,7 @@
+../Core/Src/fnd4dight.c:44:6:fnd4digit_main	16	static
+../Core/Src/fnd4dight.c:97:6:FND_update	16	static
+../Core/Src/fnd4dight.c:107:6:FND_downdate	16	static
+../Core/Src/fnd4dight.c:118:6:FND4digit_off	8	static
+../Core/Src/fnd4dight.c:129:6:FND4digit_on	8	static
+../Core/Src/fnd4dight.c:141:6:fnd4digit_sec_clock	8	static
+../Core/Src/fnd4dight.c:188:6:fnd4digit_spin	8	static
